@@ -57,7 +57,7 @@ This project is licensed under the **MIT License**.
 
 ## 📬 Connect with Me
 Have suggestions or feedback? Feel free to reach out!
-- 🔗 [LinkedIn](www.linkedin.com/in/shreya-bharati-bb6620244)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shreya-bharati-bb6620244/)
 - 📝 [GitHub](https://github.com/sh-reyyah)
 
 ---
