@@ -15,11 +15,11 @@ This project aims to predict **house prices** using machine learning models base
 
 ## 📂 Dataset
 The dataset contains key features like:
-- **CRIM**: Per capita crime rate by town.
-- **RM**: Average number of rooms per dwelling.
-- **LSTAT**: % lower status population.
-- **PTRATIO**: Pupil-teacher ratio.
-- **MEDV**: Median value of owner-occupied homes (target variable).
+- **Crime Rate** (scale of 1-10)
+- **resid_area**: Residential Area (sqft).
+- **air_qual**: Air quality index.
+- **room_num**: Number of rooms in the house
+- **airport:** Distance to the nearest airport (in kilometers).
 
 ## 🛠 Tech Stack
 - **Python** 🐍
@@ -35,7 +35,7 @@ The dataset contains key features like:
 ## 🔧 Installation & Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/house-price-prediction.git
+   git clone https://github.com/sh-reyyah/house_price.git
    cd house-price-prediction
    ```
 2. Install dependencies:
@@ -57,8 +57,8 @@ This project is licensed under the **MIT License**.
 
 ## 📬 Connect with Me
 Have suggestions or feedback? Feel free to reach out!
-- 🔗 [LinkedIn](your-linkedin-profile)
-- 📝 [GitHub](your-github-profile)
+- 🔗 [LinkedIn](www.linkedin.com/in/shreya-bharati-bb6620244)
+- 📝 [GitHub](https://github.com/sh-reyyah)
 
 ---
 
